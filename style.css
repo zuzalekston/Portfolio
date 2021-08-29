@@ -6,9 +6,16 @@ body {
     background-color: #fff;
 }
 
-#container, #navbar, #content, .imageBox {
+#container, .nav, #content, .imageBox, .navbar {
     width: 100%;
 }
 
+.sticky {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
 
 
