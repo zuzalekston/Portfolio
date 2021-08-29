@@ -23,15 +23,18 @@
                         <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="#">Beauty</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#">Features</a>
+                            <a class="nav-link" href="#">Fashion</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#">Pricing</a>
+                            <a class="nav-link" href="#">Plener</a>
                             </li>
                         </ul>
+                        <span class="navbar-text">
+                            <a class="nav-link" href="#">O mnie</a>
+                        </span>
                         <span class="navbar-text">
                             <a class="nav-link" href="#">Kontakt</a>
                         </span>
@@ -42,28 +45,58 @@
 
             <div id="content">
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/portaitissue 23 223.JPG" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/WDF_0890_S22.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/portaitissue 23 256.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/PW003573.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/_SPP0104_72DPI.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/portaitissue 23 224.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
                 <div class="imageBox">
-                    <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                    <figure>
+                        <img class="image img-fluid" src="images/_SPP0259_72DPI.jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/PW005727gs.jpg" alt='Responsive image'/>
+                    </figure>
+                    
                 </div>
 
                 <!-- class 'img-fluid' z bootstrapa sprawia ze obraz jest responsywny -->
@@ -120,8 +153,8 @@
 				400: 1,
 			},
 			margin: {
-				x: 5,
-				y: 5,
+				x: 0,
+				y: 0,
 			}
         });
 
