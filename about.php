@@ -1,7 +1,6 @@
 <?php include('basic.php'); ?>
 
 <body>
-    <div id="container">
         <div class="nav">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
@@ -31,6 +30,5 @@
                 </div>
             </nav>
         </div>
-    </div>
 </body>
 </html>

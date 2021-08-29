@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pl">
     <head>
@@ -11,7 +10,7 @@
 	    
     </head>
     <body>
-        <div id="container">
+        
             <div class="nav">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container-fluid">
@@ -41,7 +40,7 @@
                     </div>
                 </nav>
             </div>
-            <div id="content">
+            <div class="content">
                 <div class="imageBox">
                     <figure>
                         <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
@@ -101,7 +100,7 @@
                    
                 
             </div>
-        </div>
+        
     </body>
     <script src="jquery.min.js"></script>
     <script>
@@ -132,7 +131,7 @@
 		// 	columns: 4,
 		// });
         var masonry = new Macy({
-            container: '#content',
+            container: '.content',
             trueOrder: false,
             waitForimages: true,
             useOwnImageLoader: false,

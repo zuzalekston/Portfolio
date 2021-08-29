@@ -1,7 +1,6 @@
 <?php include('basic.php'); 
 ?>
 <body>
-    <div id="container">
         <div class="nav">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
@@ -32,22 +31,9 @@
             </nav>
         </div>
         <div class="content">
-            <div id="form">
-                <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Adres e-mail</label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-                </div>
-                <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label">Wiadomość</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" ></textarea>
-                </div>
-                <div class="d-grid gap-2">
-                    <button class="btn btn-primary" type="button">WYŚLIJ</button>
-                
-                </div>
-            </div>
+            
         </div>
-    </div>
+
 
 </body>
 </html>
