@@ -21,13 +21,13 @@
                         <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Beauty</a>
+                            <a class="nav-link active" aria-current="page" href="beauty.php">Beauty</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#">Fashion</a>
+                            <a class="nav-link" href="fashion.php">Fashion</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#">Plener</a>
+                            <a class="nav-link" href="plener.php">Plener</a>
                             </li>
                         </ul>
                         <span class="navbar-text">
@@ -43,19 +43,19 @@
             <div class="content">
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/_SPP0003_72DPI.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/portaitissue 23 224.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/portaitissue 23 223.JPG" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/_SPP0003_72DPI.JPG" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/WDF_0890_S22.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/MX5A7875.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
@@ -67,10 +67,41 @@
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/PW003573.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/127731.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/138892.jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/portaitissue 23 223.jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/docs-2.jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/MX5A8080.jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                <div class="imageBox">
+                    <figure>
+                        <img class="image img-fluid" src="images/IMG-20201005-WA0003 (2).jpg" alt='Responsive image'/>
+                    </figure>
+                    
+                </div>
+                
                 <div class="imageBox">
                     <figure>
                         <img class="image img-fluid" src="images/_SPP0104_72DPI.jpg" alt='Responsive image'/>
@@ -79,19 +110,7 @@
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/portaitissue 23 224.jpg" alt='Responsive image'/>
-                    </figure>
-                    
-                </div>
-                <div class="imageBox">
-                    <figure>
-                        <img class="image img-fluid" src="images/_SPP0259_72DPI.jpg" alt='Responsive image'/>
-                    </figure>
-                    
-                </div>
-                <div class="imageBox">
-                    <figure>
-                        <img class="image img-fluid" src="images/PW005727gs.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/MX5A8221.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
@@ -100,6 +119,40 @@
                    
                 
             </div>
+            <div class="wrapper">
+                <div class="icon facebook">
+                    <div class="tooltip">
+                    Facebook
+                    </div>
+                    <span><a href="https://www.facebook.com/zuzanna.lekston"><i class="fab fa-facebook-f"></i></a></span>
+                </div>
+                <div class="icon instagram">
+                    <div class="tooltip">
+                    Instagram
+                    </div>
+                    <span><a href="https://www.instagram.com/zuzalekston/"><i class="fab fa-instagram"></i></a></span>
+                </div>
+                <div class="icon linkedin">
+                    <div class="tooltip">
+                    LinkedIn
+                    </div>
+                    <span><a href="https://www.linkedin.com/in/zuzanna-lekston-03ba231b5/"><i class="fab fa-linkedin"></i></a></span>
+                </div>
+                <div class="icon github">
+                    <div class="tooltip">
+                    Github
+                    </div>
+                    <span><a href="https://github.com/zuzalekston?tab=repositories"><i class="fab fa-github"></i></a></span>
+                </div>
+            </div>
+        
+        <footer>
+            <p>Stronę wykonała <b>Zuzanna Lekston</b> | All rights reserved </br>
+            zuzalekston@gmail.com
+            </p>
+            
+            
+        </footer>
         
     </body>
     <script src="jquery.min.js"></script>
