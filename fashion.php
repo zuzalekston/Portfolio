@@ -35,100 +35,100 @@
             <div class="content">
                 <div class="imageBox"> <!-- 1 image -->
                     <figure> 
-                        <img class="image img-fluid" src="images/beauty/IMG-20201005-WA0003 (2).jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A7985.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 
                 <div class="imageBox"> <!-- 2 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/_SPP0097_72DPI.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A8116.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 3 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/127733.JPG" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A7947.JPG" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 4 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/138922.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A8080.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 5 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/24726188_10215207877657234_646232581_o.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/12931.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 6 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/_SPP0259_72DPI.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/8766.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 7 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/received_386331926138175.jpeg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/12925.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 8 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/_SPP9999_72DPI.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/8767.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
-            
                 <div class="imageBox"> <!-- 9 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/135018.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/_MG_1306gs.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 10 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/127731.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/_DSC5437.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 11 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/135017.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/_MG_1292gs.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 12 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/127718.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/_DSC5443.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
+            
                 <div class="imageBox"> <!-- 13 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/_DSC5389.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/XHMK2993.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 14 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/138882.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/PW003364.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 
                 <div class="imageBox"> <!-- 15 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/_DSC5402.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/PW003639.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox"> <!-- 16 image -->
                     <figure>
-                        <img class="image img-fluid" src="images/beauty/138892.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/XHMK5114.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>

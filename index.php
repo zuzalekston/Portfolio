@@ -43,74 +43,74 @@
             <div class="content">
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/portaitissue 23 224.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/portaitissue 23 224.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/_SPP0003_72DPI.JPG" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/_SPP0003_72DPI.JPG" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/MX5A7875.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A7875.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/portaitissue 23 256.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/portaitissue 23 256.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/127731.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/beauty/127731.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/138892.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/beauty/138892.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/portaitissue 23 223.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/portaitissue 23 223.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/docs-2.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/docs-2.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/MX5A8080.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/fashion/MX5A8080.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/IMG-20201005-WA0003 (2).jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/beauty/IMG-20201005-WA0003 (2).jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/_SPP0104_72DPI.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/komercyjne/_SPP0104_72DPI.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
                 <div class="imageBox">
                     <figure>
-                        <img class="image img-fluid" src="images/MX5A8221.jpg" alt='Responsive image'/>
+                        <img class="image img-fluid" src="images/beauty/MX5A8221.jpg" alt='Responsive image'/>
                     </figure>
                     
                 </div>
