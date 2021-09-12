@@ -48,6 +48,10 @@ body {
     transform: scale(1.1);
 }
 
+.komercyjne:hover img {
+    opacity: 0.7;
+}
+
 figure {
     overflow: hidden;
     margin: 0 !important;
@@ -87,8 +91,11 @@ figure {
 }
 
 footer {
-    height: 6.5vw;
     background-color: #fff;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
 }
 
 footer p {
@@ -98,29 +105,30 @@ footer p {
 }
 
 .wrapper {
+    width: 25%;
     display: inline-flex;
-    position: absolute;
-    bottom: 0;
-    left: 0;
     padding: 1.5vw;
 }
 
+#textFooter {
+    width: 50%;
+}
+
 .icon {
-    padding: 0 0.7vw;
-    font-size: 25px;
+    font-size: 30px;
     cursor: pointer;
     text-decoration: none;
     z-index: 200;
-}
-
-.icon span .fab{
-    color: grey;
-    background: #fff;
+    padding: 0 0.7vw;
 }
 
 .icon span:hover .fab {
     color: black;
 }
+
+
+
+
 
 
 
